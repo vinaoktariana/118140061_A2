@@ -1,0 +1,64 @@
+.sidebar {
+  float: left;
+  height: auto;
+  width: 200px;
+  background-color: #e0d425;
+  padding-top: 10px;
+  padding-bottom: 300px;
+}
+
+.sidebar ul {
+  list-style-type: white;
+  padding: o;
+  width: 100px;
+  text-align: left;
+  background-color:#e0d425;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.sidebar li a:hover {
+  background-color:: #d8d829;
+  color: whitesmoke;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(214, 157, 83);
+}
+
+.navbar li {
+  float: right;
+  margin-right: 20px;
+}
+
+.navbar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.navbar li a:hover {
+  background-color: #d8d829;
+}
+
+body {
+  font: Helvetica, sans-serif;
+  color:#BC8F8F;
+}
+
+.content {
+  background-color:#BC8F8F;
+  color:#e0d425;
+  padding-top: 10px;
+  padding-bottom: 150px;
+  height: auto;
+}
+/*# sourceMappingURL=tugas.css.map */

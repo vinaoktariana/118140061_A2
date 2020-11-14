@@ -1,0 +1,72 @@
+$mycolour:#BC8F8F;
+$bgcolour :pink;
+$number1 :20px;
+$align1 : center;
+$primary-color: rgb(160, 17, 48);
+$font-stack: Helvetica, sans-serif;
+
+.sidebar{
+    float : left;
+    height: auto;
+    width: 200px;
+    background-color:rgb(239, 243, 26;
+    padding:
+    {
+        top: 10px;
+        bottom: 300px;
+    }
+
+    ul{
+        list-style-type: white;
+        padding : o;
+        width : 100px;
+        text-align: left;
+        background-color: #BC8F8F;
+        margin :
+        {
+            top: 20px;
+            bottom: 20px;
+            left: 0;
+            right:0;
+        }
+    }
+    li{
+        a:hover{
+            background-color: #BC8F8F;
+            color: whitesmoke;
+        }
+    }
+}
+
+.navbar{
+    ul{
+        list-style-type: none;
+        margin :0;
+        padding: 0;
+        overflow: hidden;
+        background-color: $bgcolour;
+    }
+    li{
+        float: right;
+        margin-right:$number1;
+    }
+    li a{
+        display: block;
+        color: white;
+        text-align: $align1;
+        padding: 14px $number1;
+        text-decoration: none;
+    }
+
+    li a:hover {
+        background-color: $mycolour;
+    }
+}
+body{
+    font: $font-stack;
+    color: $primary-color;
+}
+.content {
+    background-color:pink;
+    color: #BC8F8F;
+}
