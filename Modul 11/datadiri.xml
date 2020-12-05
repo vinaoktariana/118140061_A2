@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<biodata>
+    <nama>Hallo! Nama aku Vina Oktariana.</nama>
+    <saudara>Disini aku 3 bersaudara, yang dimana aku menjadi anak paling bungsu dan saya memiliki 2 kakak laki-laki.</saudara>
+    <orangtua>Nama Papa aku Papirustami dan Nama Mama aku Novayanah.</orangtua>
+    <hobby>Untuk hobby, aku memiliki hobby dengerin lagu</hobby>
+    <alamat>
+        <text>Aku dari lahir sampai berumur 20 tahun ini menetap di kota Bandar lampung</text>
+        <kecamatan>Sukabumi</kecamatan>
+        <kota>Bandar Lampung</kota>
+    </alamat>
+    <mediaSosial>
+        <facebook>vinaoktariana</facebook>
+        <instagram>vinaoktariana</instagram>
+    </mediaSosial>
+    <organisasi>
+        <KMITERA>Selama di perkuliahan ini aku ikut organisasi KM ITERA atau bisa dikatan setara dengan Badan Eksekutif Mahasiswa (BEM) masuk dibagian kominfo</KMITERA>
+        <HMIF>Dan, untuk organisasi kedua aku ikut masuk di Himpunan Mahasiswa Informatika di bagian divisi KART</HMIF>
+    </organisasi>
+</biodata>
