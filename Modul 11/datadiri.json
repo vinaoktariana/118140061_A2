@@ -1,11 +1,11 @@
 {
     "biodata": {
-        "nama" : "Hallo! Nama aku Vina Oktariana",
-        "saudara" : "disini aku 3 bersaudara, yang dimana aku menjadi anak paling bungsu dan saya memiliki 2 kakak laki-laki",
+        "nama" : "Hallo! Nama aku Vina Oktariana.",
+        "saudara" : "Disini aku 3 bersaudara, yang dimana aku menjadi anak paling bungsu dan saya memiliki 2 kakak laki-laki.",
         "orangtua" : "Nama Papa aku Papirustami dan Nama Mama aku Novayanah",
         "hobby" : "Untuk hobby, aku memiliki hobby dengerin lagu",
         "alamat" : {
-            "#text" : " Aku dari lahir sampai berumur 20 tahun ini menetap di kota Bandar lampung",
+            "#text" : "Aku dari lahir sampai berumur 20 tahun ini menetap di kota Bandar lampung",
             "kecamatan" : "Sukabumi",
             "kota" : "Bandar Lampung",
         },
@@ -14,7 +14,7 @@
             "instagram" : "vinaoktariana"
         },
         "organisasi" : {
-            "KM ITERA" : "Selama di perkuliahan ini aku ikut organisasi KM ITERA atau bisa dikatan setara dengan Badan Eksekutif Mahasiswa (BEM) masuk dibagian kominfo",
+            "KMITERA" : "Selama di perkuliahan ini aku ikut organisasi KM ITERA atau bisa dikatan setara dengan Badan Eksekutif Mahasiswa (BEM) masuk dibagian kominfo",
             "HMIF" : "Dan, untuk organisasi kedua aku ikut masuk di Himpunan Mahasiswa Informatika di bagian divisi KART"
         }
     }

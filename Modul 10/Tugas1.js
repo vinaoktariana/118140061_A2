@@ -1,6 +1,5 @@
 var a = 4;
 
-
 function mTambah() {
     var nama=document.getElementById("new").value;
     var ul=document.getElementById("ul");
@@ -38,7 +37,7 @@ function mEdit(id = a) {
     return edit;
 }
 
-function mHapus(id = i) {
+function mHapus(id = a) {
     var edit = document.createElement("b");
     edit.setAttribute("onclick", "hapus(" + id + ")");
     edit.append("Hapus");
