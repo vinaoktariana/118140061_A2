@@ -179,14 +179,13 @@ require("koneksi.php");
             }
         }
     </style>
-    <script type="text/javascript" src="jquery-3.5.1.min.js"></script>
 </head>
 
 <body>
     <div class="testbox">
         <form method="POST" id="form_tambah">
             <div class="banner">
-                <h1>FORM</h1>
+                <h1>FORM MAHASISWA</h1>
             </div>
             <div class="item">
                 <p>NIM</p>
